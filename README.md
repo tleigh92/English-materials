@@ -3,7 +3,7 @@
 <details>
 
 
-<summary> Pronoun quiz
+<summary> Pronoun quiz </summary>
 
 Dad said _____ can watch a movie after dinner. (Hint: A group including you)
 Anna invited _____ to her birthday party. (Hint: Refers to you and others)
